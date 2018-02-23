@@ -1,0 +1,15 @@
+.container .row #title {
+	font-size: 24px;
+	color: #ffc107;
+}
+
+.container .row #flag .flag-img {
+	width: 150px;
+	height: 75px;
+	margin: 0 auto;
+}
+
+.container .horizontal {
+	height: 2px;
+	background-color: #283593;
+}
